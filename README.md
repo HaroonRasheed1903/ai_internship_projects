@@ -1,1 +1,1 @@
-# silver-succotash
+# AI Internship
